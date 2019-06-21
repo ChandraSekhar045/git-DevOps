@@ -1,0 +1,3 @@
+First file to test push command
+
+Updating the file after first commit to the GitHub from Git
